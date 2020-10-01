@@ -11,7 +11,7 @@ const App = () => {
 
       <h1>Hello Next!</h1>
       <p>
-        This is the example Next.js app, which we're going to deploy on{" "}
+        This is our new example Next.js app, which we're going to deploy on{" "}
         <Link href="/vercel">
           <a>Vercel</a>
         </Link>
